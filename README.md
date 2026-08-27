@@ -57,12 +57,6 @@ Building my own developer ecosystem and experimenting with:
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBatyrcom\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 💭 My Mindset
 
 > **Keep learning. Keep building. Never give up.** 👨‍🦽🔥
