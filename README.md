@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Batyrhan
+# 👋 Hey, I'm Batyrhan I am a person with a disability.👨‍🦽😢
 
 ### 🐍 Python / AI Developer · Founder of TheBatyrcom
 
