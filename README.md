@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Batyrhan I am a person with a disability.👨‍🦽😢
+# 👋 Hey, I'm Batyrhan 
 
 ### 🐍 Python / AI Developer · Founder of TheBatyrcom
 
@@ -9,7 +9,9 @@ I'm a developer passionate about **Python, AI, LLMs, and software development**.
 I build projects, experiment with new technologies, and work on my own ecosystem — **TheBatyrcom / TBM AI**. 🚀
 
 ---
-
+I am a person with a disability.👨‍🦽😢
+10.16.2005
+---
 ## 🧠 About Me
 
 * 🐍 Python Developer
